@@ -1,0 +1,13 @@
+## Interface: 120000
+## Title: SmashThreat
+## Notes: Midnight-safe Threat Meter with Edit Mode, SharedMedia, multi-bar, and anchor widget
+## Author: Smash
+## Version: 2.0.0
+## SavedVariables: SmashThreatDB
+## OptionalDeps: LibSharedMedia-3.0, Details, WeakAuras, Plater, SharedMedia
+
+SmashThreat_Core.lua
+SmashThreat_EditMode.lua
+SmashThreat_Settings.lua
+SmashThreat_Slash.lua
+SmashThreat_Media.lua
