@@ -1,13 +1,16 @@
 ## Interface: 120000
 ## Title: SmashThreat
-## Notes: Midnight-safe Threat Meter with Edit Mode, SharedMedia, multi-bar, and anchor widget
-## Author: Smash
-## Version: 2.0.0
-## SavedVariables: SmashThreatDB
-## OptionalDeps: LibSharedMedia-3.0, Details, WeakAuras, Plater, SharedMedia
+## Notes: Threat meter with top 5 aggro list
+## Version: 1.0.0
+## Author: Smash87 + AI update
+## LoadOnDemand: 0
 
-SmashThreat_Core.lua
-SmashThreat_EditMode.lua
-SmashThreat_Settings.lua
-SmashThreat_Slash.lua
-SmashThreat_Media.lua
+Config.lua
+Frames/ThreatBars.lua
+Frames/TopAggro.lua
+Options.lua
+Core.lua
+
+## Optional Dependencies
+## Optional: LibStub
+## OptionalDeps: LibSharedMedia-3.0
