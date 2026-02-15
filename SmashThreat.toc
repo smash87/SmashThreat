@@ -2,7 +2,7 @@
 ## Title: SmashThreat
 ## Notes: Threat meter with top 5 aggro list
 ## Version: 1.0.0
-## Author: Smash87 + AI update
+## Author: Smash87 
 ## LoadOnDemand: 0
 
 Config.lua
